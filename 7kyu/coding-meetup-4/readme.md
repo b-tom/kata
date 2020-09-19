@@ -1,0 +1,1 @@
+https://www.codewars.com/kata/5827bc50f524dd029d0005f2/solutions/javascript/me/best_practice
